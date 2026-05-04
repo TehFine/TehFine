@@ -77,7 +77,7 @@ currently_learning:
 
 <div align="center">
 
-![snake gif](https://github.com/TehFine/TehFine/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/TehFine/TehFine/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
