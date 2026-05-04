@@ -88,7 +88,7 @@ currently_learning:
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TehFine&repo=CV_BUILD&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TehFine&repo=CV_Project&theme=tokyonight"/>
 </a>
 
 <a href="#">
