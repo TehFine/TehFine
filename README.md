@@ -55,9 +55,9 @@ currently_learning:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TehFine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TehFine&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
@@ -67,7 +67,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TehFine&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -77,7 +77,7 @@ currently_learning:
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/TehFine/TehFine/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -88,11 +88,11 @@ currently_learning:
 <div align="center">
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=CV_BUILD&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TehFine&repo=CV_BUILD&theme=tokyonight"/>
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NIDS-ML&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TehFine&repo=NIDS-ML&theme=tokyonight"/>
 </a>
 
 </div>
@@ -103,7 +103,7 @@ currently_learning:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/TehFine">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
