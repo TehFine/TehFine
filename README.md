@@ -65,7 +65,9 @@ philosophy: "Exploit the system, then secure it."
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TehFine&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TehFine&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TehFine&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 
 </div>
 
